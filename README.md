@@ -244,3 +244,5 @@ docker stop wmu_reading_db
 | Open demo         | Go to `http://localhost:5050`           |
 | Stop demo         | Press `Ctrl + C`                        |
 | Stop database     | `docker stop wmu_reading_db`            |
+
+/* Testing the webhook */
