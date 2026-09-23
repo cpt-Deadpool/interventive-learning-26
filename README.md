@@ -245,4 +245,4 @@ docker stop wmu_reading_db
 | Stop demo         | Press `Ctrl + C`                        |
 | Stop database     | `docker stop wmu_reading_db`            |
 
-/* Testing the webhook */
+/* Testing the webhookv2 */
